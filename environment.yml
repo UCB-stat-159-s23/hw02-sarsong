@@ -8,4 +8,5 @@ dependencies:
   - scipy
   - h5py
   - matplotlib
+  - decorator
 prefix: /Users/sarahsong/envs/ligo
