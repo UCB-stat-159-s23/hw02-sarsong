@@ -1,0 +1,11 @@
+name: ligo
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - numpy
+  - scipy
+  - h5py
+  - matplotlib
+prefix: /Users/sarahsong/envs/ligo
